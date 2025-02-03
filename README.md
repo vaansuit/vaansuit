@@ -2,7 +2,7 @@
 ## Tecnologias & Ferramentas  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=macos,javascript,git,vscode,nextjs,react,flutter,postgres,firebase,supabase,vercel,zig" />
+    <img src="https://skillicons.dev/icons?i=apple,linux,javascript,git,vscode,nextjs,react,flutter,postgres,firebase,supabase,vercel,zig" />
   </a>
 </p>
 
@@ -14,7 +14,4 @@
 🔹 Sistema de recomendação de refeições baseado em IA.  
 
 ## 📫 Como me encontrar  
-💼 [LinkedIn](https://www.linkedin.com/in/seu-perfil)  
-📧 [E-mail](mailto:seu-email@email.com)  
-📂 [Portfólio]Em breve..  
-
+💼 [LinkedIn](https://www.linkedin.com/in/seu-perfil)](https://www.linkedin.com/in/victor-hugo-vansuit-048807323/)  
