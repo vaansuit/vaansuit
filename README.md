@@ -10,4 +10,4 @@
 - 🔹 **Front-end:** Next.js, React, Flutter, Vanilla JavaScript  
 - 🔹 **Tools:** VS Code, Git, Vercel  
 
-💼 [LinkedIn]([https://www.linkedin.com/in/seu-perfil)](https://www.linkedin.com/in/victor-hugo-vansuit-048807323/)  
+💼 [LinkedIn](https://www.linkedin.com/in/seu-perfil)  
