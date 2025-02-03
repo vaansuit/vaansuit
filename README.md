@@ -2,7 +2,7 @@
 ## Tecnologias & Ferramentas  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=apple,linux,javascript,git,vscode,nextjs,react,flutter,postgres,firebase,supabase,vercel,zig" />
+    <img src="https://skillicons.dev/icons?i=linux,git,vscode,nextjs,react,flutter,postgres,firebase,supabase,vercel,zig" />
   </a>
 </p>
 
